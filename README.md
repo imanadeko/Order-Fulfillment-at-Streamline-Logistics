@@ -1,7 +1,4 @@
 # Order-Fulfillment-at-Streamline-Logistics
-This repository contains the resources and documentation for developing an interactive Excel dashboard aimed at improving order fulfillment processes for Streamline Logistics.
-
-### Project Overview
 Streamline Logistics, a reputable logistics company, is facing challenges with order backlogs, customer dissatisfaction, and rising operational costs. This project aims to address these issues by leveraging data-driven insights to enhance operational efficiency and customer satisfaction.
 
 ### Objectives
