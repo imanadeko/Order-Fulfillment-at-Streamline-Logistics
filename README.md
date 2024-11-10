@@ -52,3 +52,7 @@ The Excel dashboard provides a comprehensive overview of order fulfillment perfo
 - Customer Feedback
 - Driver and Vehicle Performance
 - Allocation Rule Effectiveness
+
+
+![image](https://github.com/user-attachments/assets/ce7f58ee-8f71-4220-aa17-0263a6e17fee)
+
